@@ -15,3 +15,12 @@
 # rand(1..6)
 # Log output to the screen with puts:
 # puts "Hello, world"
+
+die_roll1 = rand(1..6)
+puts die_roll1
+
+die_roll2 = rand(1..6)
+puts die_roll2
+
+total = die_roll1 + die_roll2
+puts "Total: #{total}"
