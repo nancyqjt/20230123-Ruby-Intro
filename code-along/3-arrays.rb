@@ -27,5 +27,7 @@ puts favorite_foods + ["more tacos"]
 all_foods = favorite_foods.push("more tacos")
 puts all_foods
 
+
+
 # There are lots of fun things you can do with arrays:
 # https://ruby-doc.org/core-2.7.0/Array.html
